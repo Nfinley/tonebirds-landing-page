@@ -1,0 +1,23 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tonebirdslandingsite-master-220534-authRole",
+            "UnauthRoleArn": "arn:aws:iam::189830527704:role/amplify-tonebirdslandingsite-master-220534-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::189830527704:role/amplify-tonebirdslandingsite-master-220534-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-tonebirdslandingsite-master-220534-deployment",
+            "UnauthRoleName": "amplify-tonebirdslandingsite-master-220534-unauthRole",
+            "StackName": "amplify-tonebirdslandingsite-master-220534",
+            "StackId": "arn:aws:cloudformation:us-east-1:189830527704:stack/amplify-tonebirdslandingsite-master-220534/83b3aee0-5f9c-11eb-b19a-0e80bfdca6c9",
+            "AmplifyAppId": "dp7sm3chqb3uq"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "dp7sm3chqb3uq",
+                    "type": "cicd"
+                }
+            }
+        }
+    }
+}
